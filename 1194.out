@@ -1,0 +1,26 @@
+[Process 7 has 124999 words]
+Creating process 0
+[Process 0: Found: 123456]
+
+Creating process 6
+[Process 6: Exiting...]
+
+Creating process 7
+[Process 7: Exiting...]
+
+Creating process 3
+[Process 3: Exiting...]
+
+Creating process 1
+[Process 1: Exiting...]
+
+Creating process 4
+[Process 4: Exiting...]
+
+Creating process 5
+[Process 5: Exiting...]
+
+Creating process 2
+[Process 2: Exiting...]
+
+Time executed: 0.102005958557 seconds
